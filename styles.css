@@ -76,7 +76,7 @@ nav {
 }
 .hero-logo-wrap {
   width: 96px; height: 96px; border-radius: 22px;
-  background: #1A0C06; display: flex; align-items: center; justify-content: center;
+  background: #fff; display: flex; align-items: center; justify-content: center;
   margin: 0 auto 1.4rem;
   box-shadow: 0 8px 32px rgba(155,58,42,0.22);
   position: relative; z-index: 1;
@@ -462,7 +462,7 @@ footer {
 }
 .footer-brand { display: flex; flex-direction: column; gap: 0.5rem; }
 .footer-brand-row { display: flex; align-items: center; gap: 0.55rem; }
-.footer-logo-img { width: 28px; height: 28px; border-radius: 8px; background: #2C1408; padding: 2px; object-fit: contain; }
+.footer-logo-img { width: 28px; height: 28px; border-radius: 8px; background: #fff; padding: 2px; object-fit: contain; }
 .footer-brand-name { font-family: 'Playfair Display', serif; font-size: 1.1rem; color: rgba(255,255,255,0.85); }
 .footer-tagline { font-size: 0.78rem; color: rgba(255,255,255,0.3); max-width: 180px; line-height: 1.5; font-style: italic; font-family: 'Playfair Display', serif; }
 .footer-nav-col h5 { font-size: 0.68rem; letter-spacing: 0.12em; text-transform: uppercase; color: rgba(255,255,255,0.28); margin-bottom: 0.75rem; font-weight: 600; }
